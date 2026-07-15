@@ -4,6 +4,6 @@ console.log(myString);
 
 let myBirthday2
 myBirthday2 = 7
-const symbol = "май"
-let myString2 = `Мой день рождения: ${myBirthday2} числа ${symbol} месяца`;
+const month = "май"
+let myString2 = `Мой день рождения: ${myBirthday2} числа ${month} месяца`;
 console.log(myString2);
